@@ -1,9 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isaac ILIWA===================================================================================================================================Graduate Architect and Coding Enthusiast----------------------------------------I am a Graduate Architect and architectural visualization expert. I want to streamline my workflows by employing the use of code to solve real-life problems. I run a design and build enterprise that works majorly on residential and commercial projects. My project updates are posted on my YouTube Channel to more than 100 subscribers.* 🌍  I'm based in Nairobi* ✉️  You can contact me at [isaaciliwa5@gmail.com](mailto:isaaciliwa5@gmail.com)* 🧠  I'm learning Web Development* 🤝  I'm open to collaborating on Projects* ⚡  I Am the Captain of My Own Ship
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isaac ILIWA 
+===================================================================================================================================
+
+Graduate Architect and Coding Enthusiast
+----------------------------------------
+
+I am a Graduate Architect and architectural visualization expert. I want to streamline my workflows by employing the use of code to solve real-life problems. I run a design and build enterprise that works majorly on residential and commercial projects. My project updates are posted on my YouTube Channel to more than 100 subscribers.* 
+
+🌍  I'm based in Nairobi* 
+✉️  You can contact me at [isaaciliwa5@gmail.com](mailto:isaaciliwa5@gmail.com)*
+🧠  I'm learning Web Development* 
+🤝  I'm open to collaborating on Projects* 
+⚡  I Am the Captain of My Own Ship
 
 <a href="https://www.github.com/isaaciliwa5" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/github/followers/isaaciliwa5?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/ispaces" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/ispaces?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
-### Skills
 
+### Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a></p>
