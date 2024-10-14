@@ -1,12 +1,13 @@
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 My name is Isaac ILIWA 
-===================================================================================================================================
+=
 
 Graduate Architect and Coding Enthusiast
-----------------------------------------
+-
 
 I am a Graduate Architect and architectural visualization expert. I want to streamline my workflows by employing the use of code to solve real-life problems. I run a design and build enterprise that works majorly on residential and commercial projects. My project updates are posted on my YouTube Channel to more than 100 subscribers.* 
+
 
 🌍  I'm based in Nairobi* 
 
