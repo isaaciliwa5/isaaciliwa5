@@ -19,9 +19,6 @@ I am a Graduate Architect and architectural visualization expert. I want to stre
 
 ⚡  I Am the Captain of My Ship
 
-<a href="https://www.github.com/isaaciliwa5" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/github/followers/isaaciliwa5?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/ispaces" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/ispaces?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
-
-
 ### Skills
 
 <p align="left">
