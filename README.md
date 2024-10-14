@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isaac ILIWA 
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+My name is Isaac ILIWA 
 ===================================================================================================================================
 
 Graduate Architect and Coding Enthusiast
@@ -7,9 +9,13 @@ Graduate Architect and Coding Enthusiast
 I am a Graduate Architect and architectural visualization expert. I want to streamline my workflows by employing the use of code to solve real-life problems. I run a design and build enterprise that works majorly on residential and commercial projects. My project updates are posted on my YouTube Channel to more than 100 subscribers.* 
 
 🌍  I'm based in Nairobi* 
+
 ✉️  You can contact me at [isaaciliwa5@gmail.com](mailto:isaaciliwa5@gmail.com)*
+
 🧠  I'm learning Web Development* 
+
 🤝  I'm open to collaborating on Projects* 
+
 ⚡  I Am the Captain of My Ship
 
 <a href="https://www.github.com/isaaciliwa5" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/github/followers/isaaciliwa5?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/ispaces" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/twitter/follow/ispaces?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
