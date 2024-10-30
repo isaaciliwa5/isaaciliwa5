@@ -1,4 +1,4 @@
-<img src="1_POLYGON_LOGO.jpg" width="1500" height="300" alt="My Design-Build Company Logo-Polygon Systems" />
+<img src="1_POLYGON_LOGO.jpg" width="1500" height="250" alt="My Design-Build Company Logo-Polygon Systems" />
 
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
